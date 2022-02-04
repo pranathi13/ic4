@@ -52,4 +52,4 @@ The purpose of this assignment is to start learning about HTML and CSS.
 ## Submission
 
 * Be sure to push all changes to your repo and follow all instructions above. 
-* For this portion of your assignment **submit a clickable URL to your GitHub repository** (not your GitHub Page).  
+* For this portion of your assignment **submit a clickable URL to your GitHub repository** (not your GitHub Page).   
