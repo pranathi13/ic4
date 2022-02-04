@@ -1,7 +1,7 @@
 # ic-04
 ic-04 - Intro to HTML and CSS
 
-Link to GitHub Pages: `https://github.com/pranathi13/ic4`
+Link to GitHub Pages: `[https://github.com/pranathi13/ic4]`
 
 ## Purpose
 
@@ -11,7 +11,7 @@ The purpose of this assignment is to start learning about HTML and CSS.
 
 1. Background material to support this assignment is provided below in the Resources section.  
 
-1. Create a GitHub Page for your repo and add the link to your GitHub Page above where you see `https://github.com/pranathi13/ic4`. 
+1. Create a GitHub Page for your repo and add the link to your GitHub Page above where you see `[https://github.com/pranathi13/ic4]`. 
 
 1. Clone this repo and work locally. Be sure to push the final version of your code (and any significant updates along the way) before submitting. 
 
